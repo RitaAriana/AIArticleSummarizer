@@ -9,7 +9,7 @@ const Hero = () => {
                 type='button'
                 onClick={() => window.open("https://github.com/RitaAriana")}
                 className='black_btn'>
-                    GitHub
+                    Author
             </button>
         </nav>
 
