@@ -22,12 +22,13 @@ npm run start
 
 👤 **Rita Ariana Sobral**
 
-* Github: [@RitaAriana](https://github.com/RitaAriana)
-* LinkedIn: [@Rita Ariana Sobral](https://linkedin.com/in/Rita Ariana Sobral)
+- Github: [@RitaAriana](https://github.com/RitaAriana)
+- LinkedIn: [@Rita Ariana Sobral](https://linkedin.com/in/Rita-Ariana-Sobral)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
